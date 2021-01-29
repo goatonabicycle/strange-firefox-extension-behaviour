@@ -1,0 +1,1 @@
+# strange-firefox-extension-behaviour
